@@ -36,7 +36,9 @@
     "categories": {
       "function": {
         "a121889f9a3b3e": {
-          "secretsPathAmplifyAppId": "d3vs3z3re8mcks"
+          "secretsPathAmplifyAppId": "d3vs3z3re8mcks",
+          "deploymentBucketName": "amplify-a12188-next-84151-deployment",
+          "s3Key": "amplify-builds/a121889f9a3b3e-2b5367364d7978704b41-build.zip"
         }
       }
     }
