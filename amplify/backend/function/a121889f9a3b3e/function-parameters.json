@@ -2,6 +2,7 @@
   "lambdaLayers": [],
   "secretNames": [
     "mysecret",
-    "myothersecret"
+    "myothersecret",
+    "anewsecret"
   ]
 }

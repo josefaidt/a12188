@@ -116,6 +116,28 @@
                   "myothersecret"
                 ]
               ]
+            },
+            "anewsecret": {
+              "Fn::Join": [
+                "",
+                [
+                  {
+                    "Fn::Sub": [
+                      "/amplify/${appId}/${env}/AMPLIFY_${functionName}_",
+                      {
+                        "appId": {
+                          "Ref": "secretsPathAmplifyAppId"
+                        },
+                        "env": {
+                          "Ref": "env"
+                        },
+                        "functionName": "a121889f9a3b3e"
+                      }
+                    ]
+                  },
+                  "anewsecret"
+                ]
+              ]
             }
           }
         },
