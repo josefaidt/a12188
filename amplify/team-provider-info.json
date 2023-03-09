@@ -10,6 +10,13 @@
       "StackName": "amplify-a12188-dev-83745",
       "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-a12188-dev-83745/b972fa60-be98-11ed-b346-0e9aa6818fbf",
       "AmplifyAppId": "d3vs3z3re8mcks"
+    },
+    "categories": {
+      "function": {
+        "a121889f9a3b3e": {
+          "secretsPathAmplifyAppId": "d3vs3z3re8mcks"
+        }
+      }
     }
   }
 }
