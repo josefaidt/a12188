@@ -8,22 +8,6 @@
     }
   },
   "parameters": {
-    "AMPLIFY_function_a121889f9a3b3e_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "a121889f9a3b3e"
-        }
-      ]
-    },
-    "AMPLIFY_function_a121889f9a3b3e_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "a121889f9a3b3e"
-        }
-      ]
-    },
     "AMPLIFY_function_a121889f9a3b3e_secretsPathAmplifyAppId": {
       "usedBy": [
         {
