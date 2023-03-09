@@ -1,0 +1,10 @@
+{
+  "function": {
+    "a121889f9a3b3e": {
+      "build": true,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
